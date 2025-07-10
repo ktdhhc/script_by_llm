@@ -1,2 +1,2 @@
-# app_for_llm
-大模型应用开发
+# script by llm
+视频脚本生成器
